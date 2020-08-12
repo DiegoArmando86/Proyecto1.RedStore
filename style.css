@@ -147,3 +147,17 @@ h4 {
 .col-4:hover {
   transform: translateY(-5px);
 }
+
+.ofter {
+  background: repeating-radial-gradient(#fff, #ffd6d6);
+  margin-top: 80 px;
+  padding: 30px 0;
+}
+
+.col-2 {
+  padding: 50px;
+}
+
+small {
+color: #555;
+}
